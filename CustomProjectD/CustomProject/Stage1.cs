@@ -93,21 +93,11 @@ namespace CustomProject
                     var selectedChest = chestManager1.GetChest(chestNumber - 1);
                     selectedChest.Open(Player); // Open the chest
 
-                    // If the chest contains an item, prompt to use it
+                    // If the chest contains an item, automatically add it to the player's inventory
                     if (selectedChest.Item != null)
                     {
-                        Console.WriteLine($"You found a {selectedChest.Item.Name}. Would you like to use it? (yes/no)");
-                        string itemInput = Console.ReadLine().ToLower();
-
-                        if (itemInput == "yes")
-                        {
-                            Player.Inventory.AddItem(selectedChest.Item);
-                            Player.Inventory.UseItem(Player.Inventory.Count, Player); // Automatically use the item
-                        }
-                        else
-                        {
-                            Console.WriteLine("You chose not to use the item.");
-                        }
+                        Console.WriteLine($"You found a {selectedChest.Item.Name}. It has been added to your inventory.");
+                        Player.Inventory.AddItem(selectedChest.Item); // Automatically add the item to inventory
                     }
                 }
                 else
