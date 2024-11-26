@@ -60,7 +60,7 @@ namespace CustomProject
 
         public void EndGame()
         {
-            Console.WriteLine("You Successfully Survived the forest. Thanks for playing!");
+            Console.WriteLine("Thanks for playing Enter the Forest!");
             System.Threading.Thread.Sleep(1000);
             Environment.Exit(0); // End the game
         }
