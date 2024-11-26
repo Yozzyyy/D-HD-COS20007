@@ -12,7 +12,7 @@ namespace CustomProject.Items
 
         public override void Use(Player player)
         {
-            Console.WriteLine("You found the second key. but do you have the first? walk the path and you shall claim what's yours.");
+            Console.WriteLine("You found the second key.What represents the raging beauty of destruction? Fire is the answer");
             Console.WriteLine("                                                        ██████          \r\n                                                    ████░░░░░░████      \r\n                                                  ██░░░░░░░░░░    ██    \r\n                                                ██░░░░██████████░░  ██  \r\n                                                ██░░░░██      ██░░  ██  \r\n████████████████████████████████████████████████░░░░██          ██░░░░██\r\n██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██          ██░░░░██\r\n  ██░░░░██░░░░██░░░░████████████████████████████░░░░██          ██░░░░██\r\n    ████  ████  ████                            ██░░░░██      ██░░░░██  \r\n                                                ██░░░░██████████░░░░██  \r\n                                                  ██░░░░░░░░░░░░░░██    \r\n                                                    ████░░░░░░████      \r\n                                                        ██████          \r\n");
         }
     }
