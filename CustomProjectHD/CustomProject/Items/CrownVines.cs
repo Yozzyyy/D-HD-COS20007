@@ -12,6 +12,7 @@ namespace CustomProject.Items
 
         public override void Use(Player player)
         {
+            Console.WriteLine("This crown belonged to the ancient time roman empire, but associated with time?");
             Console.WriteLine(".\r\n                  .       |         .    .\r\n            .  *         -*-          *\r\n                 \\        |         /   .\r\n.    .            .      /^\\     .              .    .\r\n   *    |\\   /\\    /\\  / / \\ \\  /\\    /\\   /|    *\r\n .   .  |  \\ \\/ /\\ \\ / /     \\ \\ / /\\ \\/ /  | .     .\r\n         \\ | _ _\\/_ _ \\_\\_ _ /_/_ _\\/_ _ \\_/\r\n           \\  *  *  *   \\ \\/ /  *  *  *  /\r\n            ` ~ ~ ~ ~ ~  ~\\/~ ~ ~ ~ ~ ~ '");
         }
     }

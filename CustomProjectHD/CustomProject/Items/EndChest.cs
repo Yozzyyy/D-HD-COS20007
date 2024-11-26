@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace CustomProject.Items
 {
-    public class SecretChest : Item
+    public class EndChest : Item
     {
-        public SecretChest() : base("SecretChest", "A Secret Chest.") { }
+        public EndChest() : base("SecretChest", "A Secret Chest.") { }
 
         public override void Use(Player player)
         {

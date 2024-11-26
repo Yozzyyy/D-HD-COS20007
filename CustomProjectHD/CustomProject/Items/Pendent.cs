@@ -12,7 +12,7 @@ namespace CustomProject.Items
 
         public override void Use(Player player)
         {
-            Console.WriteLine("This belongs to a family who used to live here. It seems like they forgot their precious heirloom.");
+            Console.WriteLine("This belongs to a family who used to live here. It seems like they forgot their precious heirloom.But it's also water damaged by the rain with mold appearing, i wonder what happened)");
             Console.WriteLine("              o--o--=g=--o--o     \r\n               /      .'       \\\r\n               o      '.       o\r\n                \\             /\r\n                 o           o\r\n                  \\         /\r\n                   o       o\r\n                    \\     /\r\n                     o   o\r\n                      \\_/\r\n                       =\r\n                      .^.\r\n                     '   '\r\n                     '. .'\r\n                       !    lc\r\n                       ");
         }
     }

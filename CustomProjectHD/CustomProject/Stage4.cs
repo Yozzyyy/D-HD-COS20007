@@ -20,8 +20,8 @@ namespace CustomProject
             // Initialize finalRoom here
             finalRoom = new Room("My House", new List<Chest>
         {
-            new LootChest("Locked Chest", new BallOfSlime()), // will be used for a locked chest
-            new LootChest("Secret Chest", new SecretChest(), "What has to be broken before you can use it?", "An egg") // Riddle-locked chest
+            new LootChest("Locked Chest", new EndChest()), // will be used for a locked chest
+            new LootChest("Secret Chest", new EndChest(), "What has to be broken before you can use it?", "An egg") // Riddle-locked chest
         }, "", "");
 
             Console.WriteLine("This is your final challenge. You have reached the Final Room!");

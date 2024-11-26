@@ -8,7 +8,7 @@ namespace CustomProject.Items
 {
     public class TreeBottle : Item
     {
-        public TreeBottle() : base("A Trashcan", "It smells. Ew.") { }
+        public TreeBottle() : base("A bottle", "slimy like substance.") { }
 
         public override void Use(Player player)
         {

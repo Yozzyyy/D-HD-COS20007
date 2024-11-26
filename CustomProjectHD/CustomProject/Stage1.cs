@@ -21,8 +21,8 @@ namespace CustomProject
             {
                 new LootChest("Rusty Chest", new HPMap()),
                 new TrapChest("Chest covered in Thorny Vines"),
-                new LootChest("Gloomy Chest", new Key1()),
-                new LootChest("Slimly Box", new BallOfSlime ())
+                new LootChest("Gloomy Chest", new Key1()), //answer for the room
+                new LootChest("Slimly Box", new BallOfSlime ()) //Wise Slime
                 
             });
 
@@ -41,7 +41,7 @@ namespace CustomProject
 
                 if (input == "proceed")
                 {
-                    Console.WriteLine("To proceed, solve this riddle: What has keys but can't open locks?");
+                    Console.WriteLine("To proceed, solve this riddle: What has keys but can't open locks?(There may a item related to the question find all corner and you shall proceed)");
                     string answer = Console.ReadLine().ToLower();
                     if (answer == "piano")
                     {

@@ -14,7 +14,7 @@ namespace CustomProject
         {
             Console.WriteLine("It's a ball? It's a green marble? wait no it's a ball of slime?? ");
             Console.WriteLine("                ██████████                \r\n        ████████░░░░░░░░░░████████        \r\n      ██░░░░░░░░░░░░░░░░░░░░░░░░░░██      \r\n    ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██    \r\n  ██░░░░░░░░░░░░░░░░░░            ░░██    \r\n  ██░░░░░░░░░░░░░░                  ░░██  \r\n██░░░░░░░░░░                        ░░░░██\r\n██░░░░░░░░░░                        ░░░░██\r\n██░░░░░░░░░░        ██        ██      ░░██\r\n██░░░░░░░░          ██        ██      ░░██\r\n██░░░░░░░░          ██        ██      ░░██\r\n██░░░░░░░░                            ░░██\r\n██░░░░░░░░░░                          ░░██\r\n██░░░░░░░░░░░░                        ░░██\r\n██░░░░░░░░░░░░░░                      ░░██\r\n██░░░░░░░░░░░░░░░░░░                ░░░░██\r\n████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░████\r\n    ██████████████████████████████████    ");
-            // Here, you can apply special buffs or effects
+            Console.WriteLine("Im a wise slime to give some warning... always count to two to not face the consequences.");
         }
     }
 }

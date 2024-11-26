@@ -14,24 +14,24 @@ public class Stage3 : Game
             {
                 new Room("Abandoned Mansion", new List<Chest>
                 {
-                    new LootChest("Chest with Stacks of books on top", new Pendent()),
+                    new LootChest("Chest with Stacks of books on top", new Pendent()), //answer for the room
                     new TrapChest("Dusty Chest"),
                     new LootChest("Mysterious Chest", new Poison())
-                }, "What comes down but never goes up?", "rain"),
+                }, "What comes down but never goes up?(What's that under the stacks of books?)", "rain"),
 
                 new Room("Dimly lit Church", new List<Chest>
-                {
-                    new LootChest("Church Chest", new Cross()),
+                { 
+                    new LootChest("Church Chest", new Cross()), //answer for this roomizhart 
                     new TrapChest("Cursed Chest"),
                     new LootChest("Prayer Chest", new Key2())
-                }, "I am not alive, but I grow. I do not have lungs, but I need air. What am I?", "fire"),
+                }, "I am not alive, but I grow. I do not have lungs, but I need air. What am I?(Wait? what's on the centre of the temple? A Cross?)", "fire"),
 
                 new Room("Empty Dog House", new List<Chest>
                 {
-                    new LootChest("Dog Bowl", new Bone()),
-                    new TrapChest("A half-eaten bone"),
+                    new LootChest("Dog Bowl", new Bone()), //answer for this room
+                    new TrapChest("Still water Bowl"),
                     new LootChest("Artifact Chest", new GlowingOrb())
-                }, "What has cities, but no houses? Forests, but no trees? And rivers, but no water?", "map")
+                }, "What has cities, but no houses? Forests, but no trees? And rivers, but no water?(What's white and tough that appear in all animal find it and the clue is yours)", "map")
             };
 
         int roomChoice = -1;

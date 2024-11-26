@@ -18,7 +18,7 @@ namespace CustomProject
 
         protected override void OnOpen(Player player)
         {
-            Console.WriteLine($"A spider jumped on {Name} face it was a trap! You lose 1 health. Becareful what you open or you shall face the consequences...");
+            Console.WriteLine($"A spider jumped on {player.Name} face it was a trap! You lose 1 health. Becareful what you open or you shall face the consequences...");
             player.ReduceHealth(1);
         }
     }

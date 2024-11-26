@@ -17,24 +17,24 @@ namespace CustomProject
             {
                 new Room("Mysterious Tree", new List<Chest>
                 {
-                    new LootChest("Chest Covered in leaves", new CrownVine()),
+                    new LootChest("Chest Covered in leaves", new CrownVine()), //answer for this room
                     new TrapChest("A nicely wrapped Chest"),
                     new LootChest("Bottle stuck in tree", new TreeBottle())
-                }, "What has a face and two hands but no arms or legs?", "clock"),
+                }, "What has a face and two hands but no arms or legs?(Why is there so much leaf? what does this lead to?)  ", "clock"),
 
                 new Room("Abandoned House", new List<Chest>
                 {
-                    new LootChest("A Slightly Open Vault", new BookOfKnowledge()),
+                    new LootChest("A Slightly Open Vault", new BookOfKnowledge()), //answer to the final secret chest
                     new TrapChest("Chest in Attic"),
-                    new LootChest("Handheld Box", new Note())
-                }, "What comes once in a minute, twice in a moment, but never in a thousand years?", "m"),
+                    new LootChest("Handheld Box", new Note()) //answer for this room
+                }, "What comes once in a minute, twice in a moment, but never in a thousand years?(paper in a box? i wonder what it reads)", "m"),
 
                 new Room("Very Dim Walkway", new List<Chest>
                 {
-                    new LootChest("Trashcan", new TrashCan()),
+                    new LootChest("Trashcan", new TrashCan()), //Answer for this room
                     new TrapChest("Under the Seat"),
                     new LootChest("A Weird Looking Leaf??", new HealingLeaf())
-                }, "What has roots that nobody sees, is taller than trees, up, up it goes, and yet never grows?", "mountain")
+                }, "What has roots that nobody sees, is taller than trees, up, up it goes, and yet never grows?(take a seat beside the trashcan, although it stinks, you can't seem to wander off in your thoughts...)", "mountain")
             };
 
             int roomChoice = -1;
