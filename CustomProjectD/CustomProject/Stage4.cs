@@ -39,7 +39,7 @@ namespace CustomProject
                     finalRoom.Chests[0].Open(Player);
 
                     // After opening the chest, end the game with the biggest reward
-                    Console.WriteLine("Congratulations! You've received the Biggest DICK Ever!");
+                    Console.WriteLine("Congratulations! You've completed Enter The Forest!");
                     stageComplete = true;
                 }
                 else if (input == "look")
