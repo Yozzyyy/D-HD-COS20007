@@ -16,7 +16,7 @@ namespace CustomProject
             Player = player;
         }
 
-        public void Start()
+        public void Start() // starts the game
         {
             Console.WriteLine($"Hello {Player.Name} a fellow traveller, Enter the forest at your own precaution... You have {Player.Health.CurrentHealth} health bars.");
             Play();
@@ -27,12 +27,12 @@ namespace CustomProject
             }
         }
 
-        public void ChestRoom(int choice)
+        public void ChestRoom(int choice) // for trap chest
         {
-            // Simulating chest opening and losing health
-            if (choice == 2) // Example: opening the second chest causes health loss
-            {
-                Player.ReduceHealth(1);
+            
+            if (choice == 2)// all trap chest is set to 2
+            { 
+                Player.ReduceHealth(1); //reduce 1 health which gets from
                 Console.WriteLine($"You lose 1 health. You have {Player.Health.CurrentHealth} health remaining.");
             }
 

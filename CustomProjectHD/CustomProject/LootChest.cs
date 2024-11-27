@@ -24,16 +24,16 @@ namespace CustomProject
             IsLocked = !string.IsNullOrEmpty(Riddle) && !string.IsNullOrEmpty(Answer); // Lock if there's a riddle
         }
 
-        protected override void OnOpen(Player player)
+        protected override void OnOpen(Player player) //proetected class can be only seen by its derived and base less restrictive than private
         {
-            if (IsLocked)
+            if (IsLocked) //this is for the final chest in final stage
             {
                 Console.WriteLine($"This chest is locked with a riddle: {Riddle}");
-                Console.WriteLine("Please enter your answer:");
+                Console.WriteLine("Please enter your answer:"); //if islocked
 
                 string playerAnswer = Console.ReadLine();
 
-                if (Unlock(playerAnswer))
+                if (Unlock(playerAnswer))  //call the unlock function to check the the answers
                 {
                     Console.WriteLine("You answered correctly! The chest is now open.");
                     Console.WriteLine($"You found a {Item.Name}!");
@@ -53,7 +53,7 @@ namespace CustomProject
 
         public bool Unlock(string answer)
         {
-            if (IsLocked && answer.Equals(Answer, StringComparison.OrdinalIgnoreCase))
+            if (IsLocked && answer.Equals(Answer, StringComparison.OrdinalIgnoreCase)) //if input is the same as the answer declare in the stage 
             {
                 IsLocked = false; // Unlock the chest
                 return true;

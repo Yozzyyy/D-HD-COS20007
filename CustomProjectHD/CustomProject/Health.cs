@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -17,8 +18,8 @@ namespace CustomProject
             CurrentHealth = maxHealth;
         }
 
-        // Method to decrease health
-        public void DecreaseHealth(int amount)
+
+        public void DecreaseHealth(int amount) //decrease the health then is called in the cursed object methods 
         {
             CurrentHealth -= amount;
             if (CurrentHealth < 0)
@@ -26,32 +27,19 @@ namespace CustomProject
                 CurrentHealth = 0;
             }
         }
-        public static Health operator +(Health health, int amount)
+        //static is shared across all
+        public static Health operator +(Health health, int amount) //the "+" allows us to call the operator in methods
         {
-            health.CurrentHealth += amount;
+            health.CurrentHealth += amount; //amount is the "1" then we plus from our current healths
             return health;
         }
 
-        // Method to check if player is alive
-        public bool IsAlive()
+       
+        public bool IsAlive() //check player is alive
         {
             return CurrentHealth > 0;
         }
 
-        // Method to heal the player (if needed)
-        public void Heal(int amount)
-        {
-            CurrentHealth += amount;
-            if (CurrentHealth > MaxHealth)
-            {
-                CurrentHealth = MaxHealth;
-            }
-        }
-
-        // Method to reset health (optional for stages or resets)
-        public void ResetHealth()
-        {
-            CurrentHealth = MaxHealth;
-        }
+        
     }
 }

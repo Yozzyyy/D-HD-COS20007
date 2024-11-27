@@ -16,7 +16,7 @@ namespace CustomProject
         }
 
 
-        protected override void OnOpen(Player player)
+        protected override void OnOpen(Player player) // from chest when open the chest then reduce health
         {
             Console.WriteLine($"A spider jumped on {player.Name} face it was a trap! You lose 1 health. Becareful what you open or you shall face the consequences...");
             player.ReduceHealth(1);

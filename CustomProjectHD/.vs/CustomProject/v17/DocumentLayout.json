@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\chest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\chest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\trapchest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\trapchest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\stage4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\stage4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\items\\key1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\items\\key1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\items\\key2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\items\\key2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\stage3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,88 +47,36 @@
       "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\stage2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\stage1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\stage1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\stage1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\stage1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\lootchest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\lootchest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\chest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\chest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\items\\key2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\items\\key2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\items\\crownvines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\items\\crownvines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\items\\ballofslime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\items\\ballofslime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\items\\bone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\items\\bone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\items\\cross.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\items\\cross.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\items\\poison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\items\\poison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\items\\pendent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\items\\pendent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\stage4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\stage4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\items\\trashcan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\items\\trashcan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\items\\poison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\items\\poison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\items\\key1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\items\\key1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\items\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\items\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\items\\treebottle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\items\\treebottle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\items\\endchest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\items\\endchest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\items\\bookofknowledge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\items\\bookofknowledge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\items\\glowingorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\items\\glowingorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\items\\hpmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -109,6 +85,38 @@
     {
       "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\items\\healingleaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\items\\healingleaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\items\\glowingorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\items\\glowingorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\items\\endchest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\items\\endchest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\items\\crownvines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\items\\crownvines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\items\\cross.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\items\\cross.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\items\\bookofknowledge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\items\\bookofknowledge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\items\\bone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\items\\bone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\items\\ballofslime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\items\\ballofslime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|c:\\users\\user\\documents\\github\\d-hd-cos20007\\customprojecthd\\customproject\\items\\treebottle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E884A89C-69F6-439E-B2DD-4E70472D4410}|CustomProject\\CustomProject.csproj|solutionrelative:customproject\\items\\treebottle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -118,11 +126,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Item.cs",
+              "RelativeDocumentMoniker": "CustomProject\\Item.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Item.cs",
+              "RelativeToolTip": "CustomProject\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:44:34.223Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -133,47 +150,38 @@
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Health.cs",
+              "RelativeDocumentMoniker": "CustomProject\\Health.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Health.cs",
+              "RelativeToolTip": "CustomProject\\Health.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:58:29.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Stage2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Stage2.cs",
+              "RelativeDocumentMoniker": "CustomProject\\Stage2.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Stage2.cs",
+              "RelativeToolTip": "CustomProject\\Stage2.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwEMAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:36:21.256Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "LootChest.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\LootChest.cs",
-              "RelativeDocumentMoniker": "CustomProject\\LootChest.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\LootChest.cs",
-              "RelativeToolTip": "CustomProject\\LootChest.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAswBIAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T06:58:59.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Stage1.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Stage1.cs",
-              "RelativeDocumentMoniker": "CustomProject\\Stage1.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Stage1.cs",
-              "RelativeToolTip": "CustomProject\\Stage1.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAYwBgAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T04:36:41.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Stage3.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Stage3.cs",
-              "RelativeDocumentMoniker": "CustomProject\\Stage3.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Stage3.cs",
-              "RelativeToolTip": "CustomProject\\Stage3.cs",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAYwBMAAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T00:13:05.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "Key2.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\Key2.cs",
               "RelativeDocumentMoniker": "CustomProject\\Items\\Key2.cs",
@@ -186,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 6,
               "Title": "Key1.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\Key1.cs",
               "RelativeDocumentMoniker": "CustomProject\\Items\\Key1.cs",
@@ -194,19 +202,137 @@
               "RelativeToolTip": "CustomProject\\Items\\Key1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T01:01:31.746Z"
+              "WhenOpened": "2024-11-25T01:01:31.746Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
+              "Title": "Pendent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\Pendent.cs",
+              "RelativeDocumentMoniker": "CustomProject\\Items\\Pendent.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\Pendent.cs",
+              "RelativeToolTip": "CustomProject\\Items\\Pendent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAADVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T02:25:01.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Poison.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\Poison.cs",
+              "RelativeDocumentMoniker": "CustomProject\\Items\\Poison.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\Poison.cs",
+              "RelativeToolTip": "CustomProject\\Items\\Poison.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T03:02:52.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TrashCan.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\TrashCan.cs",
+              "RelativeDocumentMoniker": "CustomProject\\Items\\TrashCan.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\TrashCan.cs",
+              "RelativeToolTip": "CustomProject\\Items\\TrashCan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAADXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:15:17.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Game.cs",
+              "RelativeDocumentMoniker": "CustomProject\\Game.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Game.cs",
+              "RelativeToolTip": "CustomProject\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T08:06:28.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Stage1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Stage1.cs",
+              "RelativeDocumentMoniker": "CustomProject\\Stage1.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Stage1.cs",
+              "RelativeToolTip": "CustomProject\\Stage1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T04:36:41.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Stage3.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Stage3.cs",
+              "RelativeDocumentMoniker": "CustomProject\\Stage3.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Stage3.cs",
+              "RelativeToolTip": "CustomProject\\Stage3.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAYwBcAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T00:13:05.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Stage4.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Stage4.cs",
+              "RelativeDocumentMoniker": "CustomProject\\Stage4.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Stage4.cs",
+              "RelativeToolTip": "CustomProject\\Stage4.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T00:13:14.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Player.cs",
               "RelativeDocumentMoniker": "CustomProject\\Player.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Player.cs",
               "RelativeToolTip": "CustomProject\\Player.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAswAkAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T00:07:33.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LootChest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\LootChest.cs",
+              "RelativeDocumentMoniker": "CustomProject\\LootChest.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\LootChest.cs",
+              "RelativeToolTip": "CustomProject\\LootChest.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwBoAAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:58:59.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Room.cs",
+              "RelativeDocumentMoniker": "CustomProject\\Room.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Room.cs",
+              "RelativeToolTip": "CustomProject\\Room.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:04:41.739Z",
               "EditorCaption": ""
             },
             {
@@ -217,27 +343,105 @@
               "RelativeDocumentMoniker": "CustomProject\\Inventory.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Inventory.cs",
               "RelativeToolTip": "CustomProject\\Inventory.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwCAAAABaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T00:08:23.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Game.cs",
-              "RelativeDocumentMoniker": "CustomProject\\Game.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Game.cs",
-              "RelativeToolTip": "CustomProject\\Game.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAD4AAABGAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Chest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Chest.cs",
+              "RelativeDocumentMoniker": "CustomProject\\Chest.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Chest.cs",
+              "RelativeToolTip": "CustomProject\\Chest.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T08:06:28.336Z",
+              "WhenOpened": "2024-11-25T06:31:10.007Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 5,
+              "Title": "TrapChest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\TrapChest.cs",
+              "RelativeDocumentMoniker": "CustomProject\\TrapChest.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\TrapChest.cs",
+              "RelativeToolTip": "CustomProject\\TrapChest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:38:01.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\Note.cs",
+              "RelativeDocumentMoniker": "CustomProject\\Items\\Note.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\Note.cs",
+              "RelativeToolTip": "CustomProject\\Items\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T03:00:33.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HPMap.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\HPMap.cs",
+              "RelativeDocumentMoniker": "CustomProject\\Items\\HPMap.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\HPMap.cs",
+              "RelativeToolTip": "CustomProject\\Items\\HPMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:22:26.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HealingLeaf.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\HealingLeaf.cs",
+              "RelativeDocumentMoniker": "CustomProject\\Items\\HealingLeaf.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\HealingLeaf.cs",
+              "RelativeToolTip": "CustomProject\\Items\\HealingLeaf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:19:12.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GlowingOrb.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\GlowingOrb.cs",
+              "RelativeDocumentMoniker": "CustomProject\\Items\\GlowingOrb.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\GlowingOrb.cs",
+              "RelativeToolTip": "CustomProject\\Items\\GlowingOrb.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T02:45:19.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EndChest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\EndChest.cs",
+              "RelativeDocumentMoniker": "CustomProject\\Items\\EndChest.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\EndChest.cs",
+              "RelativeToolTip": "CustomProject\\Items\\EndChest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:11:35.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "CrownVines.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\CrownVines.cs",
               "RelativeDocumentMoniker": "CustomProject\\Items\\CrownVines.cs",
@@ -250,108 +454,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Stage2.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Stage2.cs",
-              "RelativeDocumentMoniker": "CustomProject\\Stage2.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Stage2.cs",
-              "RelativeToolTip": "CustomProject\\Stage2.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAYwCQAAADWAAAAAAAAAA==",
+              "DocumentIndex": 24,
+              "Title": "Cross.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\Cross.cs",
+              "RelativeDocumentMoniker": "CustomProject\\Items\\Cross.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\Cross.cs",
+              "RelativeToolTip": "CustomProject\\Items\\Cross.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAC7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T13:36:21.256Z",
+              "WhenOpened": "2024-11-25T02:49:33.105Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Stage4.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Stage4.cs",
-              "RelativeDocumentMoniker": "CustomProject\\Stage4.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Stage4.cs",
-              "RelativeToolTip": "CustomProject\\Stage4.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwCAAAAA6AAAAAAAAAA==",
+              "DocumentIndex": 25,
+              "Title": "BookOfKnowledge.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\BookOfKnowledge.cs",
+              "RelativeDocumentMoniker": "CustomProject\\Items\\BookOfKnowledge.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\BookOfKnowledge.cs",
+              "RelativeToolTip": "CustomProject\\Items\\BookOfKnowledge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T00:13:14.617Z",
+              "WhenOpened": "2024-11-24T13:20:57.741Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Room.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Room.cs",
-              "RelativeDocumentMoniker": "CustomProject\\Room.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Room.cs",
-              "RelativeToolTip": "CustomProject\\Room.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 26,
+              "Title": "Bone.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\Bone.cs",
+              "RelativeDocumentMoniker": "CustomProject\\Items\\Bone.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\Bone.cs",
+              "RelativeToolTip": "CustomProject\\Items\\Bone.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA4AAADAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T08:04:41.739Z",
+              "WhenOpened": "2024-11-25T01:09:29.974Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Chest.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Chest.cs",
-              "RelativeDocumentMoniker": "CustomProject\\Chest.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Chest.cs",
-              "RelativeToolTip": "CustomProject\\Chest.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T06:31:10.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TrapChest.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\TrapChest.cs",
-              "RelativeDocumentMoniker": "CustomProject\\TrapChest.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\TrapChest.cs",
-              "RelativeToolTip": "CustomProject\\TrapChest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T06:38:01.323Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Poison.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\Poison.cs",
-              "RelativeDocumentMoniker": "CustomProject\\Items\\Poison.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\Poison.cs",
-              "RelativeToolTip": "CustomProject\\Items\\Poison.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T03:02:52.706Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "TrashCan.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\TrashCan.cs",
-              "RelativeDocumentMoniker": "CustomProject\\Items\\TrashCan.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\TrashCan.cs",
-              "RelativeToolTip": "CustomProject\\Items\\TrashCan.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAADXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T13:15:17.109Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Pendent.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\Pendent.cs",
-              "RelativeDocumentMoniker": "CustomProject\\Items\\Pendent.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\Pendent.cs",
-              "RelativeToolTip": "CustomProject\\Items\\Pendent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAADVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T02:25:01.272Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 27,
               "Title": "BallOfSlime.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\BallOfSlime.cs",
               "RelativeDocumentMoniker": "CustomProject\\Items\\BallOfSlime.cs",
@@ -359,11 +501,12 @@
               "RelativeToolTip": "CustomProject\\Items\\BallOfSlime.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAswBAAAAB4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T13:25:35.202Z"
+              "WhenOpened": "2024-11-24T13:25:35.202Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "TreeBottle.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\TreeBottle.cs",
               "RelativeDocumentMoniker": "CustomProject\\Items\\TreeBottle.cs",
@@ -372,102 +515,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-24T13:37:42.799Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Cross.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\Cross.cs",
-              "RelativeDocumentMoniker": "CustomProject\\Items\\Cross.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\Cross.cs",
-              "RelativeToolTip": "CustomProject\\Items\\Cross.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAC7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T02:49:33.105Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Bone.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\Bone.cs",
-              "RelativeDocumentMoniker": "CustomProject\\Items\\Bone.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\Bone.cs",
-              "RelativeToolTip": "CustomProject\\Items\\Bone.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA4AAADAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T01:09:29.974Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Note.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\Note.cs",
-              "RelativeDocumentMoniker": "CustomProject\\Items\\Note.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\Note.cs",
-              "RelativeToolTip": "CustomProject\\Items\\Note.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T03:00:33.6Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "EndChest.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\EndChest.cs",
-              "RelativeDocumentMoniker": "CustomProject\\Items\\EndChest.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\EndChest.cs",
-              "RelativeToolTip": "CustomProject\\Items\\EndChest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T07:11:35.436Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "BookOfKnowledge.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\BookOfKnowledge.cs",
-              "RelativeDocumentMoniker": "CustomProject\\Items\\BookOfKnowledge.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\BookOfKnowledge.cs",
-              "RelativeToolTip": "CustomProject\\Items\\BookOfKnowledge.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T13:20:57.741Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "HPMap.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\HPMap.cs",
-              "RelativeDocumentMoniker": "CustomProject\\Items\\HPMap.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\HPMap.cs",
-              "RelativeToolTip": "CustomProject\\Items\\HPMap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T13:22:26.804Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "GlowingOrb.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\GlowingOrb.cs",
-              "RelativeDocumentMoniker": "CustomProject\\Items\\GlowingOrb.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\GlowingOrb.cs",
-              "RelativeToolTip": "CustomProject\\Items\\GlowingOrb.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBEAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T02:45:19.797Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "HealingLeaf.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\HealingLeaf.cs",
-              "RelativeDocumentMoniker": "CustomProject\\Items\\HealingLeaf.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectHD\\CustomProject\\Items\\HealingLeaf.cs",
-              "RelativeToolTip": "CustomProject\\Items\\HealingLeaf.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T13:19:12.12Z"
             }
           ]
         }

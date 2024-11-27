@@ -34,7 +34,7 @@ namespace CustomProject
                     new LootChest("Trashcan", new TrashCan()), //Answer for this room
                     new TrapChest("Under the Seat"),
                     new LootChest("A Weird Looking Leaf??", new HealingLeaf())
-                }, "What has roots that nobody sees, is taller than trees, up, up it goes, and yet never grows?(take a seat beside the trashcan, although it stinks, you can't seem to wander off in your thoughts...)", "mountain")
+                }, "What has roots that nobody sees, is taller than trees, up, up it goes, and yet never grows?(take a seat beside the trashcan, although it stinks, you can't seem to wander off in your thoughts...)a", "mountain")
             };
 
             int roomChoice = -1;

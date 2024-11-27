@@ -11,7 +11,7 @@ namespace CustomProject
     public class Room
     {
         public string Name { get; set; }
-        public List<Chest> Chests { get; set; }
+        public List<Chest> Chests { get; set; } //creates a list of room and what is store
         public string Riddle { get; set; }
         public string RiddleAnswer { get; set; }
 

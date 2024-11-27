@@ -21,7 +21,7 @@ public class Stage3 : Game
 
                 new Room("Dimly lit Church", new List<Chest>
                 { 
-                    new LootChest("Church Chest", new Cross()), //answer for this roomizhart 
+                    new LootChest("Church Chest", new Cross()), //answer for this room 
                     new TrapChest("Cursed Chest"),
                     new LootChest("Prayer Chest", new Key2())
                 }, "I am not alive, but I grow. I do not have lungs, but I need air. What am I?(Wait? what's on the centre of the temple? A Cross?)", "fire"),
