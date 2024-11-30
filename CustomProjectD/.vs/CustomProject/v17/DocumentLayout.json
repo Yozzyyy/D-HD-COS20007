@@ -74,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,15 +90,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Inventory.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectD\\CustomProject\\Inventory.cs",
-              "RelativeDocumentMoniker": "CustomProject\\Inventory.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectD\\CustomProject\\Inventory.cs",
-              "RelativeToolTip": "CustomProject\\Inventory.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAkwEAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "TrapChest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectD\\CustomProject\\TrapChest.cs",
+              "RelativeDocumentMoniker": "CustomProject\\TrapChest.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectD\\CustomProject\\TrapChest.cs",
+              "RelativeToolTip": "CustomProject\\TrapChest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T15:09:39.633Z"
+              "WhenOpened": "2024-11-21T13:49:24.394Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -122,8 +123,7 @@
               "RelativeToolTip": "CustomProject\\Items\\HPMap.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T03:25:28.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-24T03:25:28.258Z"
             },
             {
               "$type": "Document",
@@ -135,8 +135,7 @@
               "RelativeToolTip": "CustomProject\\Stage3.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAYwJgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T15:18:05.371Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T15:18:05.371Z"
             },
             {
               "$type": "Document",
@@ -148,8 +147,7 @@
               "RelativeToolTip": "CustomProject\\LootChest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T13:51:43.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T13:51:43.1Z"
             },
             {
               "$type": "Document",
@@ -161,8 +159,19 @@
               "RelativeToolTip": "CustomProject\\Stage1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T15:17:52.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T15:17:52.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectD\\CustomProject\\Inventory.cs",
+              "RelativeDocumentMoniker": "CustomProject\\Inventory.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectD\\CustomProject\\Inventory.cs",
+              "RelativeToolTip": "CustomProject\\Inventory.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:09:39.633Z"
             },
             {
               "$type": "Document",
@@ -174,8 +183,7 @@
               "RelativeToolTip": "CustomProject\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T13:38:01.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T13:38:01.898Z"
             },
             {
               "$type": "Document",
@@ -211,8 +219,7 @@
               "RelativeToolTip": "CustomProject\\Room.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T13:48:38.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T13:48:38.911Z"
             },
             {
               "$type": "Document",
@@ -224,21 +231,7 @@
               "RelativeToolTip": "CustomProject\\Game.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAD4AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T13:48:15.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TrapChest.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectD\\CustomProject\\TrapChest.cs",
-              "RelativeDocumentMoniker": "CustomProject\\TrapChest.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\D-HD-COS20007\\CustomProjectD\\CustomProject\\TrapChest.cs",
-              "RelativeToolTip": "CustomProject\\TrapChest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T13:49:24.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T13:48:15.585Z"
             },
             {
               "$type": "Document",
@@ -262,8 +255,7 @@
               "RelativeToolTip": "CustomProject\\Stage2.cs",
               "ViewState": "AgIAAGMAAAAAAAAAAAAuwJwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T15:17:59.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T15:17:59.043Z"
             },
             {
               "$type": "Document",
